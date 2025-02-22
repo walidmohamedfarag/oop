@@ -1,7 +1,7 @@
 ﻿
 namespace oop1
 {
-    internal class Aplicant
+    internal class Aplicant : Employee
     {
         public Aplicant()
         {
