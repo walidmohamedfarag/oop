@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 
 namespace oop1
 {
-    internal class Admin
+    internal class Admin : Employee
     {
         private readonly Istore istore;
 
